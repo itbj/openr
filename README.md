@@ -138,3 +138,4 @@ sudo python setup.py install
 ---
 
 OpenR is MIT licensed.
+###20180613 修改。
